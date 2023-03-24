@@ -4,6 +4,11 @@
 🔹 Imperial College London - Mathematics MSci (First Class Honours)
 🔹 King Edward VII School - A Levels: Mathematics, Physics, Further Mathematics, Chemistry
 
+📖 Master's Dissertation Thesis (Paper coming soon):
+🔹 Title: "Effects of Homophily/Heterophily on Graph Neural Network Performance: Bottlenecking and Underreaching in SBM Model Random Graphs"
+🔹 Supervisors: Prof. N. Jones and Dr. S. Loomba
+🔹 In this research, I am exploring the impact of homophily and heterophily on the performance of Graph Neural Networks. The study focuses on understanding the phenomena of bottlenecking and underreaching in SBM model random graphs.
+
 🏆 Competitions & Achievements:
 🔹 Shortlisted for Citadel Europe Datathon (2021)
 🔹 Imperial College Integration Bee (2021) – 3rd Place

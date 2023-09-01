@@ -1,20 +1,26 @@
-👋 Hi, I'm Jonathan Rubin, a Mathematics MSci graduate from Imperial College London with a passion for Machine Learning, Data Science, and Artificial Intelligence. My academic background and hands-on experience with various projects have equipped me with a strong foundation in programming, mathematical modeling, and analytical problem-solving. I am particularly interested in Graph Neural Networks, Natural Language Processing, and Computer Vision.
+👋 Hi, I'm Jonathan Rubin, a PhD candidate at Imperial College London. I am passionate about building statistical foundations to novel machine learning paradigms, for better explainability and usage in scientific discovery. My research ultimately aims to improve the prognosis and treatment of metastatic cancer by developing and leveraging tools in Variational Inference, Phylogenetic Inference, and Geometric Machine Learning.
+
+I graduated with a MSci in Mathematics, First Class Honours, from Imperial College London in 2023, where I gained extensive experience in Machine Learning, Computer Vision, and Geometric Deep Learning. I have also worked as a Machine Learning intern at OpenOcean, a European AI focused Venture Capital firm, where I implemented a full ML pipeline on Microsoft Azure, using graph neural networks to predict the likelihood of start-ups raising funding rounds. Additionally, I have participated in interdisciplinary research projects in computer vision with the Medicine Department at Imperial, and in data science contests with Citadel.
 
 
 📚 Education:
 
-🔹 Imperial College London - Mathematics MSci (First Class Honours)
+🔹 Imperial College London - PhD: AI & Machine Learning @ AI4Health CDT
+
+🔹 Imperial College London - MSci: Mathematics (First Class Honours)
 
 🔹 King Edward VII School - A Levels: Mathematics, Physics, Further Mathematics, Chemistry
 
 
 📖 Master's Dissertation Thesis (Paper coming soon):
 
-🔹 Title: "Effects of Homophily/Heterophily on Graph Neural Network Performance: Bottlenecking and Underreaching in SBM Model Random Graphs"
+🔹 Title: "A Statistical Geodesic Perspective on Heterophilic Bottlenecking in Graph Neural Networks"
 
 🔹 Supervisors: Prof. N. Jones and Dr. S. Loomba
 
-🔹 In this research, I am exploring the impact of homophily and heterophily on the performance of Graph Neural Networks. The study focuses on understanding the phenomena of bottlenecking and underreaching in SBM model random graphs.
+🔹 In this research, I explore the impact of homophily and heterophily on the performance of Graph Neural Networks (GNNs). The study focuses on understanding the phenomena of bottlenecking and underreaching in SBM model random graphs.
+
+🔹Upcoming conference paper titled: "Geodesic Distributions Reveal How Heterophily and Bottlenecks Limit the Expressive Power of Message Passing Neural Networks" - In this paper we expand on many of the notions developed in my thesis, to develop a statistical, Jacobian based theoretical foundation for feature expressivity and generalisation in machine learning classification tasks, allowing a bottom up approach for understanding the combined effects of bottlenecking and heterophily on GNN classification perforamnce 
 
 
 🏆 Competitions & Achievements:
@@ -43,7 +49,7 @@
 
 🔬 Research Experience:
 
-🔹 Data Science Research Project: "Analysis of Emerging Industries and Innovative Companies in the Publicly Listed Space using GPT-3 Dense Embeddings"
+🔹 Upcoming conference paper: "Geodesic Distributions Reveal How Heterophily and Bottlenecks Limit the Expressive Power of Message Passing Neural Networks"
 
 🔹 Computer Vision Research Project: "Deep Learning Based Airway Segmentation for High Resolution CT Images to Facilitate COVID-19 and Lung Fibrosis Diagnosis and Prognosis"
 
